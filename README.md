@@ -1,2 +1,2 @@
-# Machine-learning project inspired by the book Introduction to Machine Learning with python
+# Machine-learning projects inspired by the book Introduction to Machine Learning with python
 
